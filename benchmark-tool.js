@@ -1,5 +1,5 @@
 /**
- * 🛡️ Kreativs Krypt: BNB Chain RPC Benchmark Tool (2026)
+ * 🛡️ uhbee: BNB Chain RPC Benchmark Tool (2026)
  * 🚀 Purpose: Compare latency between GetBlock and Competitor endpoints in the 0.45s Fermi Era.
  */
 
